@@ -1,4 +1,4 @@
-package hello;
+package ca.jc.lab;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
