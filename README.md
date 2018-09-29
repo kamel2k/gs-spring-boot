@@ -1,1 +1,1 @@
-# gs-spring-boot
+# jc-lab
